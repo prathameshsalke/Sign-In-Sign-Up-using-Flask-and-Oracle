@@ -2,6 +2,7 @@
 
 A complete **Sign In & Sign Up web application** built using  
 **Python (Flask)**, **Oracle SQL**, **HTML**, **CSS**, and **JavaScript**.
+![Screen Recording 2026-02-03 104248 (1)](https://github.com/user-attachments/assets/b836a975-3eea-4921-a022-a34cec1ad9c2)
 
 This project demonstrates backend authentication, database connectivity with Oracle, and a modern UI authentication portal.
 
@@ -96,5 +97,6 @@ Sign In → login using same credentials
 
 # VIDEO
 ![Screen Recording 2026-02-03 104248](https://github.com/user-attachments/assets/78b2b7ed-b937-4e92-a89a-6b31fd3000a2)
+
 
 
