@@ -44,15 +44,8 @@ flask-oracle-auth/
 ├── db_config.py      
 ├── requirements.txt  
 ├── README.md 
-│
 ├── templates/
-│ └── auth.html 
-│
-├── static/
-│ ├── css/
-│ │ └── style.css 
-│ └── js/
-│ └── auth.js 
+│ └── index.html 
 
 
 
@@ -98,6 +91,7 @@ http://127.0.0.1:5000
 Sign Up → create new user
 
 Sign In → login using same credentials
+
 
 
 
