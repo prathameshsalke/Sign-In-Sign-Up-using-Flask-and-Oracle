@@ -38,19 +38,19 @@ This project demonstrates backend authentication, database connectivity with Ora
 ## 📂 Project Structure
 flask-oracle-auth/
 │
-├── app.py            # Main Flask application
-├── db_config.py      # Oracle DB connection
-├── requirements.txt  # Python dependencies
-├── README.md # Project documentation
+├── app.py            
+├── db_config.py      
+├── requirements.txt  
+├── README.md 
 │
 ├── templates/
-│ └── auth.html # Sign In / Sign Up UI
+│ └── auth.html 
 │
 ├── static/
 │ ├── css/
-│ │ └── style.css # UI styling
+│ │ └── style.css 
 │ └── js/
-│ └── auth.js # Frontend logic
+│ └── auth.js 
 
 
 
@@ -99,6 +99,7 @@ Sign In → login using same credentials
 
 # VIDEO
 ![Screen Recording 2026-02-03 104248](https://github.com/user-attachments/assets/78b2b7ed-b937-4e92-a89a-6b31fd3000a2)
+
 
 
 
