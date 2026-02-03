@@ -39,12 +39,17 @@ This project demonstrates backend authentication, database connectivity with Ora
 
 ## 📂 Project Structure
 flask-oracle-auth/
-│
+
+
 ├── app.py            
 ├── db_config.py      
 ├── requirements.txt  
 ├── README.md 
+
+
 ├── templates/
+
+
 │ └── index.html 
 
 
@@ -91,6 +96,7 @@ http://127.0.0.1:5000
 Sign Up → create new user
 
 Sign In → login using same credentials
+
 
 
 
